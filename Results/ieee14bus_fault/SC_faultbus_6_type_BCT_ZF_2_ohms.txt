@@ -1,0 +1,26 @@
+---------- Short circuit results - 14-bus system ----------
+
+Fault bus: 6
+
+Type and fault impedance: ABT - 2 ohms  
+
+Fault Current: 
+Ia Magnitude             Ia Angle                 Ib Magnitude             Ib Angle                 Ic Magnitude             Ic Angle                
+0.0 pu (0.0 kA)          90.0 degrees             11.8091 pu(49.41 kA)     169.55 degrees           11.5426 pu(49.41 kA)     -10.35 degrees
+
+Post-Fault Voltage: 
+Bus       Va Magnitude             Va Angle                 Vb Magnitude             Vb Angle                 Vc Magnitude             Vc Angle      
+1         1.0788 pu (74.44 kV)     4.8 degrees              0.9728 pu (67.13 kV)     -121.93 degrees          0.9247 pu (63.8 kV)      127.32 degrees 
+2         1.0555 pu (72.83 kV)     0.04 degrees             0.9607 pu (66.29 kV)     -127.45 degrees          0.8959 pu (61.82 kV)     121.74 degrees 
+3         1.0026 pu (69.18 kV)     -8.58 degrees            0.952 pu (65.69 kV)      -135.47 degrees          0.875 pu (60.37 kV)      110.94 degrees 
+4         1.0419 pu (71.89 kV)     -1.75 degrees            0.8766 pu (60.49 kV)     -134.81 degrees          0.779 pu (53.75 kV)      122.94 degrees 
+5         1.0613 pu (73.23 kV)     0.78 degrees             0.8527 pu (58.84 kV)     -133.23 degrees          0.772 pu (53.27 kV)      128.17 degrees 
+6         1.0695 pu (14.76 kV)     -14.41 degrees           0.5347 pu (7.38 kV)      165.03 degrees           0.5347 pu (7.38 kV)      165.03 degrees 
+7         1.062 pu (14.66 kV)      -13.49 degrees           0.8296 pu (11.45 kV)     -145.97 degrees          0.7918 pu (10.93 kV)     115.85 degrees 
+8         1.09 pu (19.62 kV)       -13.41 degrees           0.9888 pu (17.8 kV)      -137.49 degrees          0.9788 pu (17.62 kV)     109.79 degrees 
+9         1.0561 pu (14.57 kV)     -15.08 degrees           0.7673 pu (10.59 kV)     -156.79 degrees          0.6594 pu (9.1 kV)       118.49 degrees 
+10        1.0509 pu (14.5 kV)      -15.25 degrees           0.7089 pu (9.78 kV)      -162.33 degrees          0.6 pu (8.28 kV)         124.34 degrees 
+11        1.0567 pu (14.58 kV)     -14.96 degrees           0.6026 pu (8.32 kV)      -176.41 degrees          0.525 pu (7.25 kV)       142.8 degrees  
+12        1.0546 pu (14.55 kV)     -15.26 degrees           0.5404 pu (7.46 kV)      166.63 degrees           0.5151 pu (7.11 kV)      161.67 degrees 
+13        1.0497 pu (14.49 kV)     -15.35 degrees           0.5544 pu (7.65 kV)      169.7 degrees            0.5009 pu (6.91 kV)      158.01 degrees 
+14        1.036 pu (14.3 kV)       -16.21 degrees           0.6459 pu (8.91 kV)      -170.94 degrees          0.5326 pu (7.35 kV)      131.96 degrees 

@@ -1,0 +1,35 @@
+BUS DATA
+NB - Columns 1-8
+Name - Columns 9-20
+Voltage magnitude (results from power flow calculation or 1.0 pu) - Columns 21-28
+Voltage angle (results from power flow calculation or 0 degrees) - Columns 29-36
+Reference voltage - Columns 37-44
+
+GER DATA (GENERATOR DATA)
+Bus (connection bus) - Columns 1-8
+Positive sequence resistance  R1 - Columns 9-16
+Positive sequence reactance  X1 - Columns 17-24
+Negative sequence resistance R2 - Columns 25-32
+Negative sequence reactance X2 - Columns 33-40
+Zero sequence resistance R0 - Columns 41-48
+Zero sequence reactance X0 - Columns 49-56
+
+LINE DATA (GENERATOR DATA)
+From (bus) - Columns 1-8
+From (bus) - Columns 9-16
+Branch positive/negative sequence resistance R1 - Columns 17-24
+Branch positive/negative sequence reactance R1 - Columns 25-32
+Branch Zero sequence resistance - Columns 33-40
+Branch Zero sequence reactance - Columns 41-48
+
+TRAFO DATA (TRANSFORMER DATA)
+From (bus) - Columns 1-8
+From (bus) - Columns 9-16
+Branch positive/negative sequence resistance R1 - Columns 17-24
+Branch positive/negative sequence reactance R1 - Columns 25-32
+Branch Zero sequence resistance - Columns 33-40
+Branch Zero sequence reactance - Columns 41-48
+Tap magnitude - Columns 49-56 (not used yet)
+Tap angle - Columns 57-64 (not used yet)
+Connection type (see options below) -  Columns 65-72 
+('Yt-Yt', 'Y-Y', 'Yt-D', 'Y-D', 'D-Y', 'D-Yt', 'D-D', 'Yt-Y', 'Y-Yt')
